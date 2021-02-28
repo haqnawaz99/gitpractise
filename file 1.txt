@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file 1 also changed at the local.
+=======
+file 1 changed at the website.
+>>>>>>> 3d411099b6bb044374efa3d4d11100dfd42266aa
 second line edited at website.

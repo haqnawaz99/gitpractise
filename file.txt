@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file added changed at local.
+=======
+file added and changed at the website
+>>>>>>> 3d411099b6bb044374efa3d4d11100dfd42266aa
