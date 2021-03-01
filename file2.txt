@@ -1,1 +1,2 @@
 file 2 matter of conflict was resolved.
+It is at new branch.
